@@ -1,0 +1,12 @@
+{
+  "name": "@a7common/GitTix",
+  "version": "1.0.0",
+  "description": "this is a repo for my first npm package containing some common functionality for code sharing among multiple projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
